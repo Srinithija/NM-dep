@@ -2,4 +2,4 @@ Flask
 tensorflow
 numpy
 gunicorn
-opencv-python
+opencv-python-headless
